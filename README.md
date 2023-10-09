@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [You are already here](https://github.com/Techkie-Creations/url-short-frontendmentor)
-- Live Site URL: [Base Apparel Frontend Mentor](https://techkie-creations.github.io/url-short-frontendmentor)
+- Live Site URL: [URL Shortening API Frontend Mentor](https://techkie-creations.github.io/url-short-frontendmentor)
 
 ## My process
 
